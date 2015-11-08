@@ -1,0 +1,41 @@
+body{
+    vertical-align:center;
+    float:center;
+    height:100vh;
+    width:100%;
+    background-color:rgba(0, 0, 255, 0.4);
+}
+
+.boxes{
+    border:5px solid;
+    margin:10px;
+    padding:10px;
+    text-align:center;
+}
+
+#outer_box{
+    background-color:grey;
+    color:pink;
+    width:70%;
+    height:70%;
+    vertical-align:center;
+    float:center;
+}
+
+#middle_box{
+    background-color:orange;
+    color:red;
+    height:50%;
+    width:50%;
+    vertical-align:center;
+    float:center;
+}
+
+#inner_box{
+    background-color:lightgrey;
+    color:steelblue;
+    height:25%;
+    width:25%;
+    vertical-align:center;
+    float:center;
+}
